@@ -1,0 +1,17 @@
+{
+  "name": "2-node-http-nodemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server-calc.js",
+    "dev": "nodemon server-calc.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.6"
+  }
+}
